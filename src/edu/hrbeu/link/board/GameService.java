@@ -1,7 +1,7 @@
 package edu.hrbeu.link.board;
 
 import edu.hrbeu.link.object.LinkInfo;
-import edu.hrbeu.linkgame.view.Piece;
+import edu.hrbeu.link.view.Piece;
 
 public interface GameService {
 	//控制游戏开始的开发
